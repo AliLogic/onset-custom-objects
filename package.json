@@ -1,8 +1,7 @@
 {
 	"author": "aliLogic",
-	"version": "1.0",
+	"version": "1.1",
 	"server_scripts": [
-		"custom-objects_s.lua"
 	],
 	"client_scripts": [
 		"custom-objects_c.lua"
